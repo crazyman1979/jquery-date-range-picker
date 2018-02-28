@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/longbill/jquery-date-range-picker.git"
+    "url": "git://github.com/crazyman1979/jquery-date-range-picker.git"
   },
   "bugs": {
-    "url": "https://github.com/longbill/jquery-date-range-picker/issues"
+    "url": "https://github.com/crazyman1979/jquery-date-range-picker/issues"
   },
-  "homepage": "https://github.com/longbill/jquery-date-range-picker",
+  "homepage": "https://github.com/crazyman1979/jquery-date-range-picker",
   "maintainers": [],
   "scripts": {
     "dist": "gulp",
